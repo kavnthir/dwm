@@ -1,3 +1,3 @@
 # dwm
 
-fork of dwm with patches applied and configured to be based and not cringe
+my build of dwm made for cool people like me
